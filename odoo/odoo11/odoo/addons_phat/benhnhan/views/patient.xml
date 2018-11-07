@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="benhnhan_patient_form" model="ir.ui.view">
+            <field name="name">Thêm patient</field>
+            <field name="model">res.partner</field>
+            <field name="arch" type="xml">
+                <form string="Thêm bệnh nhân">
+                    <sheet>
+                        <div class="oe_button_box" name="button_box">
+                            <button name="toggle_active" type="object" groups="hr.group_hr_user"
+                                    class="oe_stat_button" icon="fa-archive">
+                                <field name="active" widget="boolean_button"
+                                       options='{"terminology": "archive"}'/>
+                            </button>
+                        </div>
+                        <field name="image" widget='image' class="oe_avatar" options='{"preview_image":"image_medium"}'/>
+                        <div class="oe_title">
+                            <label for="name" string="Họ tên" class="oe_edit_only"/>
+                            <h1>
+                                <field name="name" placeholder="Tên bệnh nhân" required="True"/>
+                            </h1>
+                        </div>
+                        <group string="Thông tin bệnh nhân">
+                            <group colspan="2">
+                                <field name="idpatient" string="Mã bệnh nhân" />
+                            </group>
+                            <group colspan="2">
+                                <field name="date" string="Ngày sinh"/>
+                                <field name="dantoc" string="Dân tộc"/>
+                                <field name="quoctich" string="Quốc tịch"/>
+                                <field name="mobile" string="Điện thoại"/>
+                                <field name="email" string="Email"/>
+                            </group>
+                            <group colspan="2" col="4">
+                                <field name="street" string="Số nhà"/>
+                                <field name="street2" string="Đường"/>
+                                <field name="city" string="Quận/Huyện"/>
+                                <field name="state_id" string="Thành phố/Tỉnh"/>
+                                <field name="country_id" string="Đất nước"/>
+                            </group>
+                            <group colspan="2">
+                                <field name="company_id" string="Công ty"/>
+                            </group>
+                        </group>
+                        <notebook>
+                            <page string ="Thông tin bảo hiểm">
+                                 <field name="insurrance">
+                                    <tree editable="bottom">
+                                        <!--<field name="loaibaohiem"/>-->
+                                        <field name="sothe"/>
+                                        <field name="tungay"/>
+                                        <field name="denngay"/>
+                                        <field name="noicap"/>
+                                        <field name="DKKCB"/>
+                                        <field name="dungtuyen"/>
+                                    </tree>
+                                </field>
+                            </page>
+                            <page string ="Thông tin người thân">
+                                <!--<field name="quanhe">-->
+                                    <!--<tree editable="bottom">-->
+                                        <!--<field name="name" string="Họ tên"/>-->
+                                        <!--<field name="mobile" string ='Điện thoại'/>-->
+                                        <!--<field name="address" string="Địa chỉ"/>-->
+                                    <!--</tree>-->
+                                <!--</field>-->
+                            </page>
+                            <page string ="Thông tin thêm">
+
+                            </page>
+                        </notebook>
+                    </sheet>
+
+                </form>
+            </field>
+        </record>
+        <record id="benhnhan_patient_tree" model="ir.ui.view">
+            <field name="name">Danh sách patient</field>
+            <field name="model">res.partner</field>
+            <field name="arch" type="xml">
+                <tree string="Đang sách bệnh nhân">
+                    <field name="idpatient" string="Mã bệnh nhân"/>
+                    <field name="name" string ="Họ tên"/>
+                    <field name="date" string="Ngày sinh"/>
+                    <field name="mobile" string="Điện thoại"/>
+                    <field name="address" string="Địa chỉ"/>
+                    <field name="email" string="Email"/>
+                    <field name="company_id" string="Công ty"/>
+                    <field name="create_date" string="Ngày tạo"/>
+                </tree>
+            </field>
+        </record>
+        <record id="benhnhan_action_patient_action" model="ir.actions.act_window">
+            <field name="name">Danh sách bệnh nhân</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">res.partner</field>
+            <field name="view_mode">tree,form</field>
+            <field name="view_ids" eval="[(5, 0, 0),
+               (0, 0, {'view_mode': 'tree', 'view_id': ref('benhnhan_patient_tree')}),
+               (0, 0, {'view_mode': 'form', 'view_id': ref('benhnhan_patient_form')})]"/>
+            <field name="domain">[('is_patient','=' ,True),('is_company','=' ,False)]</field>
+            <field name="help" type="html">
+                <p class="oe_view_nocontent_create">
+                    <!-- Add Text Here -->
+                </p><p>
+                <!-- More details about what a user can do with this object will be OK -->
+            </p>
+            </field>
+        </record>
+
+    </data>
+</odoo>

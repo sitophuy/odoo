@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95573029-6d6e-46ab-83ed-4650821112bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-369006811">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.10" value="15" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="12" />
+          <entry key="project.open.time.9" value="14" />
+          <entry key="project.opened" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="Makefile" value="3" />
+          <entry key="css" value="1" />
+          <entry key="csv" value="10" />
+          <entry key="html" value="3" />
+          <entry key="in" value="2" />
+          <entry key="js" value="2" />
+          <entry key="md" value="1" />
+          <entry key="odoo-bin" value="2" />
+          <entry key="png" value="8" />
+          <entry key="po" value="2" />
+          <entry key="py" value="374" />
+          <entry key="rng" value="1" />
+          <entry key="rst" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="185" />
+          <entry key="xsl" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="CSV" value="3" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="8" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="376" />
+          <entry key="ReST" value="1" />
+          <entry key="XML" value="190" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="csv" value="401" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="8422" />
+          <entry key="xml" value="9967" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="401" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="8422" />
+          <entry key="XML" value="9967" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="odoo11" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/patient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.5/configparser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="140" selection-start-line="140" selection-end-line="140" />
+              <folding>
+                <element signature="e#6283#6325#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/patient.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15255">
+              <caret line="1024" column="37" selection-start-line="1024" selection-start-column="37" selection-end-line="1024" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_analytic_line.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_bank_statement.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_cash_rounding.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_invoice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1476">
+              <caret line="1370" column="68" selection-start-line="1370" selection-start-column="68" selection-end-line="1370" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>active</find>
+      <find>view_employee_list_my</find>
+      <find>res</find>
+      <find>res.user</find>
+      <find>res.u</find>
+      <find>cr</find>
+      <find>create</find>
+      <find>res.partner</find>
+      <find>view_employee_form</find>
+      <find>employee_form</find>
+      <find>view_employee_category_form</find>
+      <find>menu_hr_root</find>
+      <find>t-s</find>
+      <find>sp</find>
+      <find>filter</find>
+      <find>f</find>
+      <find>fil</find>
+      <find>Requests for Quotation</find>
+      <find>New</find>
+      <find>many2m</find>
+      <find>m</find>
+      <find>N</find>
+      <find>employee_category_rel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/odoo/addons</dir>
+      <dir>$PROJECT_DIR$/odoo</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/odoo/addons_phat/thuctap_giaodien/views/thuctap_giaodien.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/nhanvien/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/nhanvien/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/nhanvien/models/sach.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/nhanvien/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/nhanvien/views/sach.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/myfirst_model/views/customer.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/quanlysach/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/quanlysach/models/sach.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/quanlysach/views/sach.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/loaibenhnhan.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/product.xml.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/quanlysach/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/chitietdangkikham.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/dangkikham.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/dangkikhambh.py" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/drug.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/drug.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/product.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/security/group.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/security/ir.model.access.csv" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/security/record_rule.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/tiepdon.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/product/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/report/account_balance.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/longfirst/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/longfirst/__manifast__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/longfirst/model/longfirst.py" />
+        <option value="$PROJECT_DIR$/addons/backend_theme_v11/views/sidebar.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/p.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/product.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/tiepdon.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/loaibenhnhan.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/dangkikhambenhbh.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/dangkikhambenh.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/benhnhan.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/tests/test_fiscal_position.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/base/res/res_users.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/base/res/res_partner.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/hr/views/hr_views.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/Insurrance.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/hr/models/hr.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/benhnhan.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/menu.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/patient.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/insurrance.py" />
+        <option value="$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/patient.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1303" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="odoo11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odoo11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo11" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odoo11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo11" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+              <item name="backend_theme_v11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odoo11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo11" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odoo11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo11" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="odoo11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="odoo11" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/odoo-bin" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testaddon">
+    <configuration name="" type="PythonConfigurationType" factoryName="Python">
+      <module name="odoo11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo-bin" />
+      <option name="PARAMETERS" value="--config $PROJECT_DIR$/../odoo.conf" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testaddon" type="PythonConfigurationType" factoryName="Python">
+      <module name="odoo11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo-bin" />
+      <option name="PARAMETERS" value="--config $PROJECT_DIR$/../odoo.conf -d dhamedic -u benhnhan" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python." />
+      <item itemvalue="Python.testaddon" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95573029-6d6e-46ab-83ed-4650821112bd" name="Default Changelist" comment="" />
+      <created>1536030757583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536030757583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6187364" visible="true" weight="0.22613458" />
+      <window_info id="Structure" order="1" sideWeight="0.3812636" side_tool="true" weight="0.20970266" />
+      <window_info id="Favorites" order="2" sideWeight="0.18041237" side_tool="true" weight="0.3298887" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49761525" weight="0.32817337" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.6671827" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920508" weight="0.7244582" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49682036" weight="0.32817337" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49523053" weight="0.32817337" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5135135" side_tool="true" weight="0.046712805" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4864865" weight="0.041795667" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="275" height="580" id="Documentation" order="3" side_tool="true" weight="0.32988048" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6187364" visible="true" weight="0.27621284" />
+      <window_info id="Structure" order="1" sideWeight="0.3812636" side_tool="true" weight="0.20970266" />
+      <window_info id="Favorites" order="2" sideWeight="0.18041237" side_tool="true" weight="0.3298887" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49761525" weight="0.32817337" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.6671827" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920508" weight="0.28947368" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49682036" weight="0.32817337" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49523053" weight="0.32817337" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5135135" side_tool="true" weight="0.046712805" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4864865" weight="0.041795667" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="275" height="580" id="Documentation" order="3" side_tool="true" weight="0.32988048" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/odoo/addons_phat/myfirst_model/__init__.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/lib/python3.5/configparser.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/patient.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/odoo/addons/account/report/account_aged_partner_balance.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.loaibenhnhan.tenloai</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.loaibenhnhan</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.tenbenhnhan</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.tenloai</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self:tenloai</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/dangkikhambenhbh.xml" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/tiepdon.xml" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/views/account.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/views/account_analytic_view.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/base_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/module/module_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="158" column="30" selection-start-line="158" selection-start-column="27" selection-end-line="158" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/module/module_report.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/module/module_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="137" column="91" selection-start-line="137" selection-start-column="91" selection-end-line="137" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/hr_contract/views/hr_contract_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8010">
+          <caret line="541" column="17" selection-start-line="541" selection-start-column="17" selection-end-line="541" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/test_inherit/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1031">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/tests/test_fiscal_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/ir/ir_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4256">
+          <caret line="311" column="83" selection-start-line="311" selection-start-column="70" selection-end-line="311" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/module/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="717" column="14" selection-start-line="717" selection-start-column="14" selection-end-line="717" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/l10n_uk/data/res.country.state.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/res/res_country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/res/res_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/project/views/project_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/project/views/res_partner_views.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/hr/views/hr_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="237" column="69" lean-forward="true" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/product.py" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons/purchase/models/res_partner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/base/res/res_partner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10101">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/dangkikhambenh.xml" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons/purchase/models/purchase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/hr/models/res_partner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/hr/models/res_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account_analytic_default/models/sale_order_line.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account_analytic_default/models/account_analytic_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/product.xml" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons/purchase/views/purchase_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/hr/models/hr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="178" column="54" selection-start-line="178" selection-start-column="33" selection-end-line="178" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="48" column="112" selection-start-line="48" selection-start-column="112" selection-end-line="48" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/dangkikham.py" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/chitietdangkikham.py" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/benhnhan.py" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/loaibenhnhan.py" />
+    <entry file="file://$PROJECT_DIR$/odoo/tools/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/security/record_rule.xml" />
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/insurrance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/report/account_aged_partner_balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#25#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/models/patient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#6283#6325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons_phat/benhnhan/views/patient.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15255">
+          <caret line="1024" column="37" selection-start-line="1024" selection-start-column="37" selection-end-line="1024" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_analytic_line.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_bank_statement.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_cash_rounding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/addons/account/models/account_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1476">
+          <caret line="1370" column="68" selection-start-line="1370" selection-start-column="68" selection-end-line="1370" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <menuitem id="benhnhan_menu" name="Medic" string ="Phòng khám DHAMedic"  sequence="5"/>
+        <menuitem id="benhnhan_menu_catalog" name="Danh mục" parent="benhnhan_menu"  sequence="5"/>
+        <!--<menuitem id="benhnhan_menu_createpatient" name="Tạo Bệnh nhân" parent="benhnhan_menu_catalog" action="benhnhan_patient_form"  sequence="4"/>-->
+        <menuitem id="benhnhan_menu_patient" name="Bệnh nhân" parent="benhnhan_menu_catalog" action="benhnhan_action_patient_action"  sequence="5"/>
+        <menuitem id="benhnhan_menu_services" name="DM Kĩ thuật" parent="benhnhan_menu_catalog"   sequence="11"/>
+        <menuitem id="benhnhan_menu_chuyenkhoa" name="DM chuyên khoa" parent="benhnhan_menu_catalog"    sequence="12"/>
+        <menuitem id="benhnhan_menu_doctors" name="DM Bác sĩ" parent="benhnhan_menu_catalog"   sequence="15"/>
+        <menuitem id="benhnhan_menu_goikhamtongquat" name="Gói khám tổng quát" parent="benhnhan_menu_catalog"   sequence="20"/>
+        <menuitem id="benhnhan_menu_khuyenmai" name="Khuyến mãi" parent="benhnhan_menu_catalog"   sequence="25"/>
+
+        <menuitem id="benhnhan_menu_tiepdon" name="Tiếp đón" parent="benhnhan_menu"   sequence="10"/>
+
+        <menuitem id="benhnhan_menu_thungan" name="Thu ngân" parent="benhnhan_menu"   sequence="15"/>
+        <menuitem id="benhnhan_menu_services" name="Viện phí dịch vụ" parent="benhnhan_menu_thungan"    sequence="5"/>
+        <menuitem id="benhnhan_menu_insurrance" name="Viện phí bảo hiểm" parent="benhnhan_menu_thungan"    sequence="10"/>
+        <menuitem id="benhnhan_menu_insur_vip" name="Viện phí BH VIP" parent="benhnhan_menu_thungan"    sequence="15"/>
+        <menuitem id="benhnhan_menu_return_thungan" name="Hoàn trả viện phí" parent="benhnhan_menu_thungan"    sequence="20"/>
+
+        <menuitem id="benhnhan_menu_khambenh" name="Khám bệnh" parent="benhnhan_menu"   sequence="20"/>
+        <menuitem id="benhnhan_menu_khambenhchuyenkhoa" name="Khám chuyên khoa" parent="benhnhan_menu_khambenh"   sequence="5"/>
+        <menuitem id="benhnhan_menu_khambenhtongquat" name="Khám tổng quát" parent="benhnhan_menu_khambenh"    sequence="10"/>
+        <menuitem id="benhnhan_menu_khambenhdoan" name="Khám đoàn" parent="benhnhan_menu_khambenh"    sequence="15"/>
+
+        <menuitem id="benhnhan_menu_sieuam" name="Siêu âm" parent="benhnhan_menu"    sequence="25"/>
+        <menuitem id="benhnhan_menu_sieuam_listwaiting" name="DS chờ" parent="benhnhan_menu_sieuam"    sequence="5"/>
+        <menuitem id="benhnhan_menu_sieuam_listdone" name="DS đã thực hiện" parent="benhnhan_menu_sieuam"   sequence="10"/>
+
+        <menuitem id="benhnhan_menu_xquang" name="X-Quang" parent="benhnhan_menu"    sequence="30"/>
+        <menuitem id="benhnhan_menu_xquang_listwaiting" name="DS chờ" parent="benhnhan_menu_xquang"   sequence="5"/>
+        <menuitem id="benhnhan_menu_xquang_listdone" name="DS đã thực hiện" parent="benhnhan_menu_xquang"    sequence="10"/>
+
+        <menuitem id="benhnhan_menu_noisoi" name="Nội soi" parent="benhnhan_menu"    sequence="35"/>
+        <menuitem id="benhnhan_menu_noisoi_listwaiting" name="DS chờ" parent="benhnhan_menu_noisoi"   sequence="5"/>
+        <menuitem id="benhnhan_menu_noisoi_listdone" name="DS đã thực hiện" parent="benhnhan_menu_noisoi"     sequence="10"/>
+
+        <menuitem id="benhnhan_menu_dientamdo" name="Điện tâm đồ" parent="benhnhan_menu"   sequence="40"/>
+        <menuitem id="benhnhan_menu_dientamdo_listwaiting" name="DS chờ" parent="benhnhan_menu_dientamdo"    sequence="5"/>
+        <menuitem id="benhnhan_menu_dientamdo_listdone" name="DS đã thực hiện" parent="benhnhan_menu_dientamdo"    sequence="10"/>
+
+        <menuitem id="benhnhan_menu_report" name="Báo cáo" parent="benhnhan_menu"    sequence="45"/>
+        <menuitem id="benhnhan_menu_report_tiepdon" name="BC Tiếp đón" parent="benhnhan_menu_report"    sequence="5"/>
+        <menuitem id="benhnhan_menu_report_thungan" name="BC Viện phí" parent="benhnhan_menu_report"    sequence="10"/>
+        <menuitem id="benhnhan_menu_report_khambenh" name="BC Khám bệnh" parent="benhnhan_menu_report"   sequence="15"/>
+        <menuitem id="benhnhan_menu_report_khambenhchuyenkhoa" name="BC Khám bệnh chuyên khoa" parent="benhnhan_menu_report"    sequence="15"/>
+        <menuitem id="benhnhan_menu_report_khambenhtongquat" name="BC Khám bệnh tổng quát" parent="benhnhan_menu_report"   sequence="20"/>
+        <menuitem id="benhnhan_menu_report_khambenhdoan" name="BC Khám bệnh đoàn" parent="benhnhan_menu_report"    sequence="25"/>
+
+    </data>
+</odoo>
